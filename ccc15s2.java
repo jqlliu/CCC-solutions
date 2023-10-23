@@ -1,14 +1,9 @@
 import java.util.*;
 import java.io.*;
-/**
- *
- * @author sovie
- */
+
 public class CCC15S2 {
 
-	/**
-	 * @param args the command line arguments
-	 */
+
 	public static void main(String[] args) throws IOException {
 		InputStreamReader in = new InputStreamReader(System.in);
 		BufferedReader buf = new BufferedReader(in);
